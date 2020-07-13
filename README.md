@@ -2,8 +2,7 @@
 
 ## Description
 
-Jupyter notebooks are great. But it can be difficult to run longer experiments due to connectivity issues. If your browser connection to th jupyter kernel is interrrupted you may losse some output.
-This is why I made a little utlity around [nbconvert](https://nbconvert.readthedocs.io/en/latest/) that let's you execute a notebook in a browser independent way.
+Jupyter notebooks are great. But it can be difficult to run longer experiments due to connectivity issues. If your browser connection to the jupyter kernel is interrupted you may lose some output. This is why I made a little utility around [nbconvert](https://nbconvert.readthedocs.io/en/latest/) that lets you execute a notebook in a browser independent way.
 
 ## How to use ?
 
