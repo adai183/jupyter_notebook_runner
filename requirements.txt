@@ -1,0 +1,2 @@
+jupyter
+simple_term_menu
